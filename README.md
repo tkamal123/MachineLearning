@@ -20,4 +20,4 @@ Project Output Instructions :
 •	Show your correlation matrix of features according to the datasets.
 •	Find out accuracy levels of various machine learning techniques such as Support Vector Machines (SVM), K-Nearest Neighbor (KNN), Decision Trees (DT) , Logistic Regression (LR) and Random Forest (RF).
 •	Build your Machine learning model for heart disease detection according to the result.
-To access the project:
+To access the project: https://tkamal123.github.io/MachineLearning/CourseWorkMajorProjectTrishaKamal.html
